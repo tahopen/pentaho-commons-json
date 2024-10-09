@@ -7,7 +7,7 @@ a jar.
 How to build
 --------------
 
-Pentaho Commons JSON uses the maven framework. 
+Tahopen Commons JSON uses the maven framework. 
 
 
 #### Pre-requisites for building the project:
